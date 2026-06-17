@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/95298972-9b66-4b5e-aa20-50ec91af60dd
 
 * **Score System:** Track your score locally as you collect cherries and progress through levels.
 * **Dynamic Hazards:** Face off against rotating buzzsaws, stationary spike pits, and moving platforms.
-* **Level Progression:** Distinct level environments featuring unique tilesets, backgrounds, and vertical platforming challenges.
+* **Level Progression:** Distinct level environments featuring unique tilesets, backgrounds, and platforming challenges.
 
 ---
 
